@@ -1,7 +1,7 @@
 ﻿﻿double nota1, nota2, nota3, nota4, media;
 string resultado;
 
-Console.WriteLine("-- Média --\n");
+Console.WriteLine("-- Média --");
 Console.WriteLine("Digite as suas notas abaixo.");
 
 Console.Write("Nota 1: ");
